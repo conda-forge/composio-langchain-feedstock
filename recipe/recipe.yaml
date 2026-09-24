@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.22.0"
+  version: "0.23.0"
 
 package:
   name: composio-langchain
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/composio-langchain/composio_langchain-${{ version }}.tar.gz
-  sha256: d6da737d1e2548e7d06a30cdd8c3f2109709b32ac8ae66a7c4f00e4eb3a74286
+  sha256: 76121f9294c0cfe2bcf94c3b320c04baf388598419469c9dddd809410144d4f0
 
 build:
   number: 0
